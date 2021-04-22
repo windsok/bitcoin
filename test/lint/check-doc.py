@@ -5,7 +5,7 @@
 
 '''
 This checks if all command line args are documented.
-Return value is 0 to indicate no error.
+Return value is 0 to indicate no error...
 
 Author: @MarcoFalke
 '''
